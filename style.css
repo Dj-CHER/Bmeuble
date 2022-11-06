@@ -79,10 +79,11 @@ p
 }
 .header
 {
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#ffffff, #ffd6d6)
+    
 }
 .header .row{
-    margin-top: 70px;
+    padding-bottom: 30px;
 }
 .categories
 {
